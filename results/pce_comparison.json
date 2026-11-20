@@ -1,0 +1,25 @@
+{
+  "epsilon": 0.1,
+  "basis": "orthonormal Legendre, total degree 2",
+  "terms": 15,
+  "training_replicates": [
+    0,
+    1
+  ],
+  "test_replicates": [
+    2,
+    3
+  ],
+  "test_rmse": 4.8687677420873916e-05,
+  "quadratic_test_rmse": 0.0002077304003629165,
+  "test_mean": 0.0039043803137609745,
+  "pce_mean": 0.0039050092456847352,
+  "quadratic_mean": 0.004028750547162275,
+  "test_variance": 1.1810921261025639e-05,
+  "pce_variance": 1.1808040271836932e-05,
+  "quadratic_variance": 1.2911663807302437e-05,
+  "pce_mean_relative_error": 0.00016108367352019037,
+  "quadratic_mean_relative_error": 0.031854026351623155,
+  "pce_variance_relative_error": 0.00024392586531019056,
+  "quadratic_variance_relative_error": 0.09319700994951963
+}

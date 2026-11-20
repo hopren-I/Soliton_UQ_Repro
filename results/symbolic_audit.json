@@ -1,0 +1,83 @@
+{
+  "sympy": "1.13.1",
+  "checks": [
+    {
+      "claim": "General transformed PDE by direct differentiation",
+      "residual": "0"
+    },
+    {
+      "claim": "Similarity reduction with arbitrary constraint defect",
+      "residual": "0"
+    },
+    {
+      "claim": "First variation of multiplicative constraint defect",
+      "residual": "0"
+    },
+    {
+      "claim": "Exact amplitude gauge transformation",
+      "residual": "0"
+    },
+    {
+      "claim": "Cubic directional expansion",
+      "residual": "0"
+    },
+    {
+      "claim": "Local energy balance",
+      "residual": "0"
+    },
+    {
+      "claim": "Local momentum balance",
+      "residual": "0"
+    },
+    {
+      "claim": "Local first-moment balance",
+      "residual": "0"
+    },
+    {
+      "claim": "Schedule W derivative",
+      "residual": "0"
+    },
+    {
+      "claim": "Common endpoint width",
+      "residual": "0"
+    },
+    {
+      "claim": "Dispersion error integral independent of schedule",
+      "residual": "0"
+    },
+    {
+      "claim": "Zero-integral gain mode",
+      "residual": "0"
+    },
+    {
+      "claim": "Nominal focusing NLSE soliton",
+      "residual": "0"
+    },
+    {
+      "claim": "Uniform exponential moment",
+      "residual": "0"
+    },
+    {
+      "claim": "Uniform second moment",
+      "residual": "0"
+    },
+    {
+      "claim": "Uniform fourth moment",
+      "residual": "0"
+    },
+    {
+      "claim": "Four-dimensional uniform quadratic mean",
+      "residual": "0"
+    },
+    {
+      "claim": "Four-dimensional uniform quadratic variance",
+      "residual": "0"
+    },
+    {
+      "claim": "Projection fidelity scalar identity",
+      "residual": "0"
+    }
+  ],
+  "passed": 19,
+  "scope": "Exact local identities; decay, PDE solution regularity and asymptotic remainder assumptions remain analytic."
+}

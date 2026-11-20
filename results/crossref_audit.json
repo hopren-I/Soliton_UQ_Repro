@@ -1,0 +1,357 @@
+{
+  "checked_at_utc": "2026-11-19T23:00:05.072298+00:00",
+  "endpoint": "https://api.crossref.org/works/",
+  "checked": 25,
+  "verified": 25,
+  "doi_link_count": 25,
+  "all_verified": true,
+  "official_standards": [
+    {
+      "key": "itu2024",
+      "url": "https://www.itu.int/rec/T-REC-G.652-202408-I/en",
+      "displayed_year": 2024,
+      "status": "verified",
+      "data_source": "ITU-T Recommendation G.652 (08/2024), Table I.1, 1550 nm."
+    }
+  ],
+  "all_references_verified": true,
+  "entries": [
+    {
+      "key": "energy2024",
+      "doi": "10.1038/s41467-024-52954-7",
+      "crossref_title": "Energy-managed soliton fiber laser",
+      "crossref_year_dates": [
+        2024
+      ],
+      "displayed_year": 2024,
+      "doi_hyperlink": "10.1038/s41467-024-52954-7",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "li2024",
+      "doi": "10.1364/oe.514457",
+      "crossref_title": "Shortcuts to adiabatic soliton compression in active nonlinear Kerr media",
+      "crossref_year_dates": [
+        2024
+      ],
+      "displayed_year": 2024,
+      "doi_hyperlink": "10.1364/oe.514457",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "serkin2000",
+      "doi": "10.1134/1.1312019",
+      "crossref_title": "Soliton management in the nonlinear Schrödinger equation model with varying dispersion, nonlinearity, and gain",
+      "crossref_year_dates": [
+        2000,
+        2002
+      ],
+      "displayed_year": 2000,
+      "doi_hyperlink": "10.1134/1.1312019",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "kruglov2003",
+      "doi": "10.1103/physrevlett.90.113902",
+      "crossref_title": "Exact Self-Similar Solutions of the Generalized Nonlinear Schrödinger Equation with Distributed Coefficients",
+      "crossref_year_dates": [
+        2003
+      ],
+      "displayed_year": 2003,
+      "doi_hyperlink": "10.1103/physrevlett.90.113902",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "perez2006",
+      "doi": "10.1016/j.physd.2006.07.002",
+      "crossref_title": "Similarity transformations for nonlinear Schrödinger equations with time-dependent coefficients",
+      "crossref_year_dates": [
+        2006
+      ],
+      "displayed_year": 2006,
+      "doi_hyperlink": "10.1016/j.physd.2006.07.002",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "ponomarenko2007",
+      "doi": "10.1364/oe.15.002963",
+      "crossref_title": "Interactions of chirped and chirp-free similaritons in optical fiber amplifiers",
+      "crossref_year_dates": [
+        2007
+      ],
+      "displayed_year": 2007,
+      "doi_hyperlink": "10.1364/oe.15.002963",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "suslov2012",
+      "doi": "10.1090/s0002-9939-2011-11176-6",
+      "crossref_title": "On integrability of nonautonomous nonlinear Schrödinger equations",
+      "crossref_year_dates": [
+        2011
+      ],
+      "displayed_year": 2012,
+      "doi_hyperlink": "10.1090/s0002-9939-2011-11176-6",
+      "status": "verified",
+      "reasons": [],
+      "notes": [
+        "bibliography uses the 2012 issue year; Crossref records a 2011 online date"
+      ]
+    },
+    {
+      "key": "nandy2023",
+      "doi": "10.1016/j.ijleo.2023.171035",
+      "crossref_title": "(Invited) Nonlinear Schrödinger equation: Autonomous and nonautonomous soliton",
+      "crossref_year_dates": [
+        2023
+      ],
+      "displayed_year": 2023,
+      "doi_hyperlink": "10.1016/j.ijleo.2023.171035",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "gu2022",
+      "doi": "10.1007/s11082-022-03645-4",
+      "crossref_title": "New optical soliton solutions for the variable coefficients nonlinear Schrödinger equation",
+      "crossref_year_dates": [
+        2022
+      ],
+      "displayed_year": 2022,
+      "doi_hyperlink": "10.1007/s11082-022-03645-4",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "huo2026",
+      "doi": "10.1007/s12596-024-02372-1",
+      "crossref_title": "Exact solutions with novel constrain condition in variable coefficient nonlinear Schrödinger equation",
+      "crossref_year_dates": [
+        2024,
+        2026
+      ],
+      "displayed_year": 2026,
+      "doi_hyperlink": "10.1007/s12596-024-02372-1",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "abdullaev2004",
+      "doi": "10.1016/j.physd.2003.12.011",
+      "crossref_title": "Optical pulse propagation in fibers with random dispersion",
+      "crossref_year_dates": [
+        2004
+      ],
+      "displayed_year": 2004,
+      "doi_hyperlink": "10.1016/j.physd.2003.12.011",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "li2007",
+      "doi": "10.1103/physreva.75.053818",
+      "crossref_title": "Noise-induced perturbations of dispersion-managed solitons",
+      "crossref_year_dates": [
+        2007
+      ],
+      "displayed_year": 2007,
+      "doi_hyperlink": "10.1103/physreva.75.053818",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "random2023",
+      "doi": "10.1103/physreva.108.023510",
+      "crossref_title": "Modulational instability in randomly dispersion-managed optical fiber links",
+      "crossref_year_dates": [
+        2023
+      ],
+      "displayed_year": 2023,
+      "doi_hyperlink": "10.1103/physreva.108.023510",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "telegraph2024",
+      "doi": "10.1364/josab.511931",
+      "crossref_title": "Random telegraph dispersion management: modulational instability",
+      "crossref_year_dates": [
+        2024
+      ],
+      "displayed_year": 2024,
+      "doi_hyperlink": "10.1364/josab.511931",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "cui2024",
+      "doi": "10.1137/23m1578619",
+      "crossref_title": "Quantifying the Effect of Random Dispersion for Logarithmic Schrödinger Equation",
+      "crossref_year_dates": [
+        2024
+      ],
+      "displayed_year": 2024,
+      "doi_hyperlink": "10.1137/23m1578619",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "xiu2002",
+      "doi": "10.1137/s1064827501387826",
+      "crossref_title": "The Wiener--Askey Polynomial Chaos for Stochastic Differential Equations",
+      "crossref_year_dates": [
+        2002,
+        2003,
+        2006
+      ],
+      "displayed_year": 2002,
+      "doi_hyperlink": "10.1137/s1064827501387826",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "chakraborty2013",
+      "doi": "10.1016/j.apnum.2013.05.005",
+      "crossref_title": "An efficient determination of critical parameters of nonlinear Schrödinger equation with a point-like potential using generalized polynomial chaos methods",
+      "crossref_year_dates": [
+        2013
+      ],
+      "displayed_year": 2013,
+      "doi_hyperlink": "10.1016/j.apnum.2013.05.005",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "luthen2022",
+      "doi": "10.1615/int.j.uncertaintyquantification.2021036153",
+      "crossref_title": "AUTOMATIC SELECTION OF BASIS-ADAPTIVE SPARSE POLYNOMIAL CHAOS EXPANSIONS FOR ENGINEERING APPLICATIONS",
+      "crossref_year_dates": [
+        2021,
+        2022
+      ],
+      "displayed_year": 2022,
+      "doi_hyperlink": "10.1615/int.j.uncertaintyquantification.2021036153",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "chen2025",
+      "doi": "10.1137/24m1670421",
+      "crossref_title": "Coupled Input-Output Dimension Reduction: Application to Goal-oriented Bayesian Experimental Design and Global Sensitivity Analysis",
+      "crossref_year_dates": [
+        2025
+      ],
+      "displayed_year": 2025,
+      "doi_hyperlink": "10.1137/24m1670421",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "owen2022",
+      "doi": "10.1007/978-3-030-98319-2_4",
+      "crossref_title": "On Dropping the First Sobol’ Point",
+      "crossref_year_dates": [
+        2022
+      ],
+      "displayed_year": 2022,
+      "doi_hyperlink": "10.1007/978-3-030-98319-2_4",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "lecuyer2023",
+      "doi": "10.1109/wsc60868.2023.10408613",
+      "crossref_title": "Confidence Intervals for Randomized Quasi-Monte Carlo Estimators",
+      "crossref_year_dates": [
+        2023,
+        2024
+      ],
+      "displayed_year": 2023,
+      "doi_hyperlink": "10.1109/wsc60868.2023.10408613",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "jain2026",
+      "doi": "10.1093/imaiai/iaag003",
+      "crossref_title": "Empirical Bernstein and betting confidence intervals for randomized quasi-Monte Carlo",
+      "crossref_year_dates": [
+        2026
+      ],
+      "displayed_year": 2026,
+      "doi_hyperlink": "10.1093/imaiai/iaag003",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "strang1968",
+      "doi": "10.1137/0705041",
+      "crossref_title": "On the Construction and Comparison of Difference Schemes",
+      "crossref_year_dates": [
+        1968,
+        2005,
+        2006
+      ],
+      "displayed_year": 1968,
+      "doi_hyperlink": "10.1137/0705041",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "sinkin2003",
+      "doi": "10.1109/jlt.2003.808628",
+      "crossref_title": "Optimization of the split-step fourier method in modeling optical-fiber communications systems",
+      "crossref_year_dates": [
+        2003
+      ],
+      "displayed_year": 2003,
+      "doi_hyperlink": "10.1109/jlt.2003.808628",
+      "status": "verified",
+      "reasons": [],
+      "notes": []
+    },
+    {
+      "key": "agrawal2019",
+      "doi": "10.1016/c2018-0-01168-8",
+      "crossref_title": "Nonlinear Fiber Optics",
+      "crossref_year_dates": [
+        2019
+      ],
+      "displayed_year": 2019,
+      "doi_hyperlink": "10.1016/c2018-0-01168-8",
+      "status": "verified",
+      "reasons": [],
+      "notes": [
+        "Crossref omits the author and edition. The Elsevier book catalog for ISBN 9780128170427 specifies Govind P. Agrawal, 6th edition."
+      ]
+    }
+  ]
+}
